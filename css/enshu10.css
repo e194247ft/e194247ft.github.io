@@ -1,0 +1,64 @@
+div.title{
+    width: 1500px;
+    height: 100px;
+    background-color: blue;
+    font-size: 70px;
+    font-family: Impact;
+}
+
+span.menuitem{
+    display: inline-block;
+    width: 300px;
+    height: 50px;
+    background-color: cornsilk;
+    text-align: center;
+    font-size:30px;
+     font-family: Impact;
+
+    
+}
+
+
+span.image1{
+    display: inline-block;
+        width:500px;
+        height:200px;
+        background-color:black;
+    color: white;
+    
+}
+
+span.image2{
+    display: inline-block;
+     width:500px;
+        height: 200px;
+    background-color: black;
+      color: white;
+    }
+
+span.image3{
+    display: inline-block;
+     width:500px;
+        height: 200px;
+    background-color: black;
+      color: white;
+    }
+div.article{
+    width:1500px;
+    height: 100px;
+    background-color:orangered;
+    text-align: center;
+    font-size: 40px;
+    
+}
+div.footer{
+    width: 1500px;
+    height: 50px;
+    background-color: cadetblue;
+    text-align: center;
+    font-size;40px; 
+}
+div.menu{
+    width: 1500px;
+    
+}

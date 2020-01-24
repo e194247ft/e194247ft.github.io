@@ -1,0 +1,13 @@
+h1{
+    color:red;
+    font-size:50px;
+    font-weight: bold;
+    text-align: center;
+    background-color: aquamarine
+}
+body{
+    background-image: url("../image/images.EX02.jpg");
+    background-repeat: repect;
+    background-attachment: fixed;
+    background-position: bottom right;    
+}

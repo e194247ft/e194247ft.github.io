@@ -1,0 +1,86 @@
+
+div.title{
+    width: 1000px;
+    height: 100px;
+    background-color: orangered;
+    font-family:fantasy;
+    font-size: 70px;
+    margin-bottom: 20px;
+    text-align:center;
+    
+}
+div.main{
+    width: 1000px;
+    height: 320px;
+    background-color:yellow;
+    font-size: 0px;
+}
+div.menu{
+    display: inline-block;
+    vertical-align: top;
+    width: 250px;
+    height: 320px;
+    background-color: yellow;
+    font-size: 0px;
+    margin-right: 50px;
+       font-family:fantasy; 
+
+    
+}
+div.menu1{
+    width: 250px;
+    height: 100px;
+    background-color: orangered;
+    margin-bottom: 10px;
+    font-size: 40px;
+    text-align:center;
+}
+div.menu2{
+    width: 250px;
+    height: 100px;
+    background-color:orangered;
+    margin-bottom: 10px;
+    font-size: 40px;
+    text-align:center;
+}
+div.menu3{
+    width: 250px;
+    height: 100px;
+    background-color: orangered;
+    font-size: 40px;text-align:center;
+}
+div.imagi1-1{
+    display: inline-block;
+    width: 700px;
+    height: 320px;
+    background-color: darkblue;
+    font-size: 0px;
+     font-family:fantasy;
+    }
+div.imagi1{
+    width: 700px;
+    height: 300px;
+    background-color:darkblue;
+    font-size: 40px;
+text-align: center;
+    
+    
+}
+div.bun{
+    width: 700px;
+    height: 20px;
+    background-color: yellow;
+    font-size: 15px;
+    text-align: center;
+}
+
+
+div.fu{
+    width: 1000px;
+    height: 40px;
+    background-color: orangered;
+    color: white;
+    text-align:center;
+    margin-top: 20px;
+    
+}
