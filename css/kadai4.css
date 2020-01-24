@@ -1,72 +1,30 @@
-div.title{
-    width: 1000px;
-    height: 40px;
-    background-color: aquamarine;
-    margin-bottom: 20px;  
-}
-div.menu{
-    width: 1000px;
-    height: 320px;
-    background-color: cornsilk;
-    margin-bottom: 20px;  
-    font-size: 0;
-}
-div.footer{
-    width: 1000px;
-    height: 40px;
-    text-align: right;
-    background-color: paleturquoise;
-}
-div.menutwo{
-    display: inline-block;
-    vertical-align: top;
-    width: 250px;
-    height: 320px;
-    background-color: blueviolet;
-    margin-right: 50px;
-     font-size: 30px;
+h1.title{
     text-align: center;
+    color :white;
+    background-color: darkblue;
 }
-div.menuthree{
-    display: inline-block;
-    vertical-align: top;
-    width: 700px;
-    height: 320px;
-    background-color: blueviolet;  
-    font-size: 5px;
-    text-align: right;
-   
+h3.soccer{
+    text-align: center;
+    color :white;
+    background-color: orangered;
 }
-div.menufour{
-     display: inline-block;
-    vertical-align: top;
-    width: 250px;
-    height: 100px;
-    background-color: red;
-    margin-bottom:10px;
-   
+
+h3.rugby{
+    text-align: center;
+    color :white;
+    background-color: orangered;
 }
-div.menufive{
-     display: inline-block;
-    vertical-align: top;
-    width: 250px;
-    height: 100px;
-    background-color: red;
-   
+
+.rink{
+    text-align: center;
+    color :white;
+    background-color: orangered;
 }
-div.img{
-     display: inline-block;
-    vertical-align: top;
-    width: 700px;
-    height: 300px;
-    background-color: black;
+
+a{
+    color: darkblue;
 }
-div.article{
-    display: inline-block;
-    vertical-align: top;
-    width: 700px;
-    height: 20px;
-    background-color: blue;
-}
-   
+
+p{
+    color: darkblue;
 }
