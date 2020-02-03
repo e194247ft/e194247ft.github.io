@@ -1,0 +1,124 @@
+body{
+    background-image: url();
+    background-attachment: fixed;        
+}
+div.title{
+    margin: auto;
+    font-size: 30px;
+    text-align: center;
+    background-color: crimson;
+    color: white;
+    width: 1000px;
+    height: 50px;
+    margin-bottom: 20px;
+}
+span.menuitem{
+    color: white;
+    background-color: black;
+    display: inline-block;
+    vertical-align: top;
+    width: 250px;
+    height: 35px;
+    text-align: center;
+    font-size: 30px;
+}
+div.menu{
+    width: 1000px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+span.image1{
+    color: white;
+    background-image: url(../images/R0.jpeg);
+    display: inline-block;
+    vertical-align: top;
+    width: 300px;
+    height: 300px;
+    font-size: 30px;
+    margin-right: 50px;
+}
+
+span.image2{
+    color: white;
+    background-image: url(../images/R1.jpeg);
+    display: inline-block;
+    vertical-align: top;
+    width: 300px;
+    height: 300px;
+    font-size: 30px;
+    margin-right: 50px;
+}
+
+span.image3{
+    color: white;
+    background-image: url(../images/R2.jpeg);
+    display: inline-block;
+    vertical-align: top;
+    width: 300px;
+    height: 300px;
+    font-size: 30px;
+}
+
+span.image4{
+    color: white;
+    background-image: url(../images/R3.jpeg);
+    display: inline-block;
+    vertical-align: top;
+    width: 300px;
+    height: 300px;
+    font-size: 30px;
+    margin-right: 50px;
+}
+
+span.image5{
+    color: white;
+    background-image: url(../images/R4.jpeg);
+    display: inline-block;
+    vertical-align: top;
+    width: 300px;
+    height: 300px;
+    font-size: 30px;
+    margin-right: 50px;
+}
+
+span.image6{
+    color: white;
+    background-image: url(../images/R5.jpeg);
+    display: inline-block;
+    vertical-align: top;
+    width: 300px;
+    height: 300px;
+    font-size: 30px;
+}
+
+div.contentsup{
+    font-size: 0px;
+    width: 1000px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+div.contentsdown{
+    font-size: 0px;
+    width: 1000px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+div.footer{
+    background-image: url();
+    color: white;
+    margin: auto;
+    width: 975px;
+    height: 40px;
+    background-color: aqua;
+    text-align: right;
+    font-size: 20px;
+    padding: 10px 25px 0px 0px;
+}
+a.menu{
+    color: white;
+    background-color: transparent;
+    font-size: 30px;
+}
